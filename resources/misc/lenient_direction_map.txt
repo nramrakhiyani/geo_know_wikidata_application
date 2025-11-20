@@ -1,0 +1,20 @@
+north	north
+west	west
+east	east
+south	south
+northwest	northwest
+north west	northwest
+north-west	northwest
+northwestern	northwest
+northeast	northeast
+north east	northeast
+north-east	northeast
+northeastern	northeast
+southwest	southwest
+south west	southwest
+south-west	southwest
+southwestern	southwest
+southeast	southeast
+south east	southeast
+south-east	southeast
+southeastern	southeast

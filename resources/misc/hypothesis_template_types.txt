@@ -1,0 +1,74 @@
+gold_reverse	SUB	is	verb	post-verb-NP	post-verb-IN-DT	direction1	post-direction1-IN-DT	OBJ	pre-direction2-IN-DT	direction2
+0	SUB	None	shares	land borders	with	OBJ	to the	DIR
+0	SUB	None	shares	land borders	with	OBJ	to its	DIR
+0	SUB	None	shares	borders	with	OBJ	to the	DIR
+0	SUB	None	shares	borders	with	OBJ	to its	DIR
+0	SUB	None	share	land borders	with	OBJ	to the	DIR
+0	SUB	None	share	land borders	with	OBJ	to its	DIR
+0	SUB	None	share	borders	with	OBJ	to the	DIR
+0	SUB	None	share	borders	with	OBJ	to its	DIR
+0	SUB	is	sharing	borders	with	OBJ	to the	DIR
+0	SUB	is	sharing	borders	with	OBJ	to its	DIR
+0	SUB	None	shares	land boundaries	with	OBJ	to the	DIR
+0	SUB	None	shares	land boundaries	with	OBJ	to its	DIR
+0	SUB	None	shares	boundaries	with	OBJ	to the	DIR
+0	SUB	None	shares	boundaries	with	OBJ	to its	DIR
+0	SUB	None	share	land boundaries	with	OBJ	to the	DIR
+0	SUB	None	share	land boundaries	with	OBJ	to its	DIR
+0	SUB	None	share	boundaries	with	OBJ	to the	DIR
+0	SUB	None	share	boundaries	with	OBJ	to its	DIR
+0	SUB	is	sharing	boundaries	with	OBJ	to the	DIR
+0	SUB	is	sharing	boundaries	with	OBJ	to its	DIR
+0	SUB	is	bordering	None	None	OBJ	to the	DIR
+0	SUB	is	bordering	None	None	OBJ	to its	DIR
+0	SUB	is	bordered	None	to the	DIR	by	OBJ
+0	SUB	is	bordered	None	in the	DIR	by	OBJ
+0	SUB	is	bordered	None	on the	DIR	by	OBJ
+0	SUB	is	bordered	None	with	OBJ	to the	DIR
+0	SUB	is	bordered	None	with	OBJ	to its	DIR
+0	SUB	is	bordered	None	by	OBJ	to the	DIR
+0	SUB	is	bordered	None	by	OBJ	to its	DIR
+0	SUB	None	borders	None	None	OBJ	to the	DIR
+0	SUB	None	borders	None	None	OBJ	to its	DIR
+0	SUB	None	border	None	None	OBJ	to the	DIR
+0	SUB	None	border	None	None	OBJ	to its	DIR
+0	SUB	is	bounding	None	None	OBJ	to the	DIR
+0	SUB	is	bounding	None	None	OBJ	to its	DIR
+0	SUB	is	bounded	None	by	OBJ	to the	DIR
+0	SUB	is	bounded	None	by	OBJ	to its	DIR
+0	SUB	is	bounded	None	with	OBJ	to the	DIR
+0	SUB	is	bounded	None	with	OBJ	to its	DIR
+0	SUB	None	bounds	None	None	OBJ	to the	DIR
+0	SUB	None	bounds	None	None	OBJ	to its	DIR
+0	SUB	None	bound	None	None	OBJ	to the	DIR
+0	SUB	None	bound	None	None	OBJ	to its	DIR
+0	SUB	is	surrounding	None	None	OBJ	to the	DIR
+0	SUB	is	surrounding	None	None	OBJ	to its	DIR
+0	SUB	is	surrounded	None	by	OBJ	to the	DIR
+0	SUB	is	surrounded	None	by	OBJ	to its	DIR
+0	SUB	is	surrounded	None	with	OBJ	to the	DIR
+0	SUB	is	surrounded	None	with	OBJ	to its	DIR
+0	SUB	None	surrounds	None	None	OBJ	to the	DIR
+0	SUB	None	surrounds	None	None	OBJ	to its	DIR
+0	SUB	None	surround	None	None	OBJ	to the	DIR
+0	SUB	None	surround	None	None	OBJ	to its	DIR
+0	SUB	is	neighbouring	None	None	OBJ	to the	DIR
+0	SUB	is	neighbouring	None	None	OBJ	to its	DIR
+0	SUB	is	neighboured	None	by	OBJ	to the	DIR
+0	SUB	is	neighboured	None	by	OBJ	to its	DIR
+0	SUB	None	neighbours	None	None	OBJ	to the	DIR
+0	SUB	None	neighbours	None	None	OBJ	to its	DIR
+0	SUB	None	neighbour	None	None	OBJ	to the	DIR
+0	SUB	None	neighbour	None	None	OBJ	to its	DIR
+1	SUB	is	lying	None	to the	DIR	of	OBJ
+1	SUB	is	lying	None	None	DIR	of	OBJ
+1	SUB	None	lies	None	to the	DIR	of	OBJ
+1	SUB	None	lies	None	None	DIR	of	OBJ
+1	SUB	None	lie	None	to the	DIR	of	OBJ
+1	SUB	None	lie	None	None	DIR	of	OBJ
+1	SUB	is	located	None	to the	DIR	of	OBJ
+1	SUB	is	located	None	None	DIR	of	OBJ
+1	SUB	is	situated	None	to the	DIR	of	OBJ
+1	SUB	is	situated	None	None	DIR	of	OBJ
+1	SUB	is	None	None	to the	DIR	of	OBJ
+1	SUB	is	None	None	None	DIR	of	OBJ 
