@@ -12,7 +12,7 @@ output_folder_path = sys.argv[2]
 
 model_name = 'gpt35'
 mask_token = '[MASK]'
-openai.api_key = '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'
+openai.api_key = # read from file
 
 total_num_questions = 0
 mask_file_list = os.listdir(mask_files_folder_path)
@@ -72,4 +72,5 @@ print ('Total number of prompts: ' + str(total_num_questions))
 input_tokens_sum = sum(input_tokens)
 print (input_tokens_sum, '\t', input_tokens_sum * 0.0000015, '\t', input_tokens_sum * 0.0000015 * 83.38)
 output_tokens_sum = sum(output_tokens)
+
 print (output_tokens_sum, '\t', output_tokens_sum * 0.000002, '\t', output_tokens_sum * 0.000002 * 83.38)
